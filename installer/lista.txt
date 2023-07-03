@@ -1,0 +1,2 @@
+pythonping
+speedtest-cli
